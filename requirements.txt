@@ -1,0 +1,6 @@
+# Dependencies for the notebooks and Python scripts
+pandas
+numpy
+matplotlib
+jupyterlab
+ipython
